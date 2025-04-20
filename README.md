@@ -37,7 +37,7 @@ All queries can be found in the `## 📊 KPIs & Metrics
 
 ## 🔍 Sample SQL Queries
 
-All queries can be found in the `[(https://github.com/ZoyaAysha/Coffee-Shop-Sales-Dashboard/blob/main/CoffeeSales%20Queries.docx)](url)` file. Highlights include:
+All queries can be found in the `` file. Highlights include:
 
 - Converting date & time fields
 - Creating KPIs
