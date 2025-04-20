@@ -46,4 +46,5 @@ All queries can be found in the [https://github.com/ZoyaAysha/Coffee-Shop-Sales-
 - Sales distribution by time & store
 
 ## 📸 Dashboard Preview
+[https://github.com/ZoyaAysha/Coffee-Shop-Sales-Dashboard/blob/main/coffeesales.pbix](url)
 
