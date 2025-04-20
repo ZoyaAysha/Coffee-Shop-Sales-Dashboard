@@ -45,6 +45,5 @@ All queries can be found in the [https://github.com/ZoyaAysha/Coffee-Shop-Sales-
 - Daily sales vs average performance
 - Sales distribution by time & store
 
-## 📸 Dashboard Preview
-[https://github.com/ZoyaAysha/Coffee-Shop-Sales-Dashboard/blob/main/coffeesales.pbix](url)
+
 
