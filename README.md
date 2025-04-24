@@ -45,5 +45,7 @@ All queries can be found in the [https://github.com/ZoyaAysha/Coffee-Shop-Sales-
 - Daily sales vs average performance
 - Sales distribution by time & store
 
+- Linkedin Post : https://www.linkedin.com/posts/ayshaahmed1991_coffee-shop-sales-perfomance-activity-7245973960830377986-ALwN?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC2FdCoBLzEqcM03G7zseP3OVwuaEv4_ahg
+
 
 
